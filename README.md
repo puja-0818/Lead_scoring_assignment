@@ -5,19 +5,32 @@ X Education, an online course provider, wants to improve its lead conversion rat
 
 
 Steps Followed
+
 Data Reading and Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Creating Dummy Variables
+
 Splitting Data into Train/Test Sets
+
 Building Logistic Regression Model
+
 Making Predictions
+
 Model Evaluation (ROC, Precision-Recall)
+
 Final Predictions on Test Set
+
 
 
 Files Included
 Lead Score Case Study.ipynb: Python notebook with code and analysis
+
 Assignment Subjective Questions.pdf: Responses to subjective questions
+
 Lead Score Case Study.pdf: Final presentation
+
 Leads Data Dictionary.xlsx: Data dictionary
+
 Summary.pdf: Summary of the entire project
