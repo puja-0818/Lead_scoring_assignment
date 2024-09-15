@@ -30,12 +30,10 @@ Final Predictions on Test Set
 
 ## Files Included
 
-Lead Score Case Study.ipynb: Python notebook with code and analysis
+Lead_score_assignment_code.ipynb: Python notebook with code and analysis
 
-Assignment Subjective Questions.pdf: Responses to subjective questions
+lead_score_subjective_question.pdf: Answer to subjective questions
 
-Lead Score Case Study.pdf: Final presentation
+lead_score_case_study_presentation.pdf: Final presentation
 
-Leads Data Dictionary.xlsx: Data dictionary
-
-Summary.pdf: Summary of the entire project
+lead_score_summary.pdf: Summary of the entire project
