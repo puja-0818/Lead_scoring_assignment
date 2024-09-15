@@ -6,7 +6,7 @@ X Education, an online course provider, wants to improve its lead conversion rat
 
 
 
-Steps Followed
+**Steps Followed
 
 Data Reading and Cleaning
 
@@ -28,7 +28,7 @@ Final Predictions on Test Set
 
 
 
-Files Included
+**Files Included
 
 Lead Score Case Study.ipynb: Python notebook with code and analysis
 
