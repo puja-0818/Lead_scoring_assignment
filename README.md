@@ -34,6 +34,6 @@ Lead_Scoring_Case_Study_code.ipynb: Python notebook with code and analysis
 
 lead_score_subjective_question.pdf: Answer to subjective questions
 
-lead_score_case_study_presentation.pdf: Final presentation
+Lead_Score_presentation.pdf: Final presentation
 
 lead_score_summary.pdf: Summary of the entire project
