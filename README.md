@@ -30,7 +30,7 @@ Final Predictions on Test Set
 
 ## Files Included
 
-Lead_score_assignment_code.ipynb: Python notebook with code and analysis
+Lead_Scoring_Case_Study_code.ipynb: Python notebook with code and analysis
 
 lead_score_subjective_question.pdf: Answer to subjective questions
 
